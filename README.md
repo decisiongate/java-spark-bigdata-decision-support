@@ -1,4 +1,3 @@
-# java-spark-bigdata-decision-support
 ## Applications for Big Data processing and Data-driven Decision Support
 
 ### General info
@@ -10,4 +9,3 @@ The Project is created with:
 * Apache Spark version: 3.0.0 
 * Hadoop version: 3.3.0
 * Apache Maven: 3.3.0
-
