@@ -37,7 +37,7 @@ public class BigDataApp {
         //reduce
         int reducedResult = mappedRDD.reduce(Integer::sum);
         System.out.println(reducedResult);
-        sc.close();
 
+        sc.close();
     }
 }
