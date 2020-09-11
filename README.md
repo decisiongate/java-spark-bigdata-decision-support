@@ -2,7 +2,7 @@
 
 ### General info
 Building Applications for Big Data processing using Spark and Machine Learning
-	
+
 ### Technologies
 Project is created with:
 * Java version: 8
