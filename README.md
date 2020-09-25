@@ -1,9 +1,9 @@
-## Applications for Big Data processing and Data-driven Decision Support
+# Applications for Big Data processing and Data-driven Decision Support
 
-### General info
+## General info
 Building Applications for Big Data processing using Spark and Machine Learning
 
-### Technologies
+## Technologies
 Project is created with:
 * Java version: 8
 * Apache Spark version: 3.0.0 
@@ -11,7 +11,7 @@ Project is created with:
 * Apache Maven: 3.3.0
 * IntelliJ IDEA Ultimate
 
-### Features
+## Features
 Project's features:
 * Spark: spark-core_2.12, spark-sql_2.12
 * build plugins: maven-compiler-plugin, maven-assembly-plugin
