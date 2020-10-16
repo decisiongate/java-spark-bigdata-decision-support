@@ -2,7 +2,7 @@
 	
 ## Dependencies
 * Java version: 8
-* Apache Spark version: 3.0.0 
+* Apache Spark: 3.0.0 
 * Hadoop version: 3.3.0
 * Apache Maven: 3.3.0
 
